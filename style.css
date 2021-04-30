@@ -1,0 +1,167 @@
+.navbar-li{
+	display: inline-block;
+	margin:50px;
+	margin-top: 10px;
+}
+.mainparagraf{
+	position: relative;
+}
+header{
+	position:absolute;
+	top:20px;
+	left:139px;
+}
+
+li>a {
+	position:absolute;
+	display:inline-block;
+	margin-left: 20px;
+	color:white; 
+}
+.home{
+	margin-right:50px;
+	width:34px;
+}
+.rooms{
+	margin-right:61px;
+	width:44px;
+}
+.restaurant{
+	margin-right:48px;
+	width:76px;
+}
+.about{
+	margin-right:49px;
+	width:60px;
+}
+.blog{
+	margin-right:50px;
+	width:32px;
+}
+.contact{
+	width:58px;
+}
+.resort{
+	max-width:1366px;
+	max-height:662px;
+}
+h1{
+	position:absolute;
+	top:209px;
+	left:139px;
+	width:576px;
+	height: 160px;
+	color:#FFFFFF;
+	font-size:62px ;
+	font-family: ExtraBold;
+}
+
+.zetta_description{
+	position:absolute;
+	top:389px;
+	left:139px;
+	width:352px;
+	height: 64px;
+	font-size:14px;
+	font-family:Regular;
+	color:#FFFFFF;
+}
+.bord-white{
+	position:absolute;
+}
+.new{
+	position: absolute;
+}
+
+.next-to-sticky{
+	position:absolute;
+	top:572px;
+	left:909px;
+	width:122px;
+	height:28px;
+	color:#FFFFFF;}
+
+.second_textion{
+	display:inline-block;
+}	
+.second_textion{
+	font-family: 'Poppins-ExtraBold';
+	font-size: 18px;
+	margin-top: 5px;
+	margin-left: 100px;
+}
+.title1{
+	color:black;
+	margin-top: 0px;
+	font-family: 'Poppins-Regular';
+}
+.title2{
+	color:black;
+	margin-top: 40px;
+	font-family: 'Poppins-Regular'
+
+}
+.read{
+	background: #5863F8;
+	margin-left:26px;
+	margin-top:10px;
+	padding-top:15px;
+	width:184px;
+	height:50px;
+	text-align: center;
+}
+.read-more>a{
+	font-size:20px;
+	font-family:Regular;
+	color:black;
+}
+.read-more img{
+	margin-left:200px;
+}
+.album{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 600px;
+	margin-right:800px;
+	margin-top:-400px;
+	margin-right: 20px;
+}
+
+.nav{
+	height:304px;
+	background: #121212;
+	padding-left:139px;
+	padding-top:50px;
+}
+footer img{
+	display: inline-block;
+	margin-right:21.9px;
+}
+footer>h3{
+	color:#FFFFFF;
+	font-size:24px;
+	font-family:Bold;
+	width:148px;
+	height:33px;
+}
+.magna,p{
+	color:#B1B1B1;
+	font-size:14px;
+	font-family:Medium;
+	width:828px;
+	height:83px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.copyright{
+	margin-top:9px;
+	width:559px;
+	height:20px;
+	color:#B1B1B1;
+	font-size:14px;
+	font-family:Medium;
+	margin-bootom:32px;
+}
+.copyright>span{
+	color:#5863F8;
+}
